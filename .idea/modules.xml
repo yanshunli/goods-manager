@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/goods-manager.iml" filepath="$PROJECT_DIR$/goods-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goods-web/goods-web.iml" filepath="$PROJECT_DIR$/goods-web/goods-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goods-common/goodscommon.iml" filepath="$PROJECT_DIR$/goods-common/goodscommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goods-entity/goodsentity.iml" filepath="$PROJECT_DIR$/goods-entity/goodsentity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goods-service-api/goodsserviceapi.iml" filepath="$PROJECT_DIR$/goods-service-api/goodsserviceapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goods-web/web-depository/web-depository.iml" filepath="$PROJECT_DIR$/goods-web/web-depository/web-depository.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goods-web/web-goods/web-goods.iml" filepath="$PROJECT_DIR$/goods-web/web-goods/web-goods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goods-web/web-manager/web-manager.iml" filepath="$PROJECT_DIR$/goods-web/web-manager/web-manager.iml" />
+    </modules>
+  </component>
+</project>

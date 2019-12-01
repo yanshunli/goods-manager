@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8" >
+    <title>Title</title>
+</head>
+<body>
+    <h1>仓库列表</h1>
+    <table>
+        <tr>
+            <td>仓库id</td>
+            <td>仓库名称</td>
+            <td>商品类别总数</td>
+        </tr>
+        <tr th:each="dep : ${deps}">
+            <td th:text="${dep.id}"></td>
+            <td th:text="${dep.dname}"></td>
+            <td th:text="${dep.dnum}"></td>
+        </tr>
+    </table>
+
+</body>
+</html>
